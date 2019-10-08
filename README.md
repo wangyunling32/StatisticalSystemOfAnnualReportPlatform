@@ -28,7 +28,8 @@
 
 首页：
 
-<img src="https://github.com/wangyunling32/StatisticalSystemOfAnnualReportPlatform/blob/master/img-folder/temp.png" width="600" height="300"/>
+<img src="https://github.com/wangyunling32/StatisticalSystemOfAnnualReportPlatform/blob/master/img-folder/temp.png" 
+width="600" height="300"/>
 
 点击“形式审核”，查看各平台的审核信息,下图为已审核的平台：
 
