@@ -20,28 +20,28 @@
 
 提交完成后可查看审核结果：
 
-<img src="https://github.com/wangyunling32/StatisticalSystemOfAnnualReportPlatform/blob/master/img-folder/tijiao.png" width="300" height="500"/>
+<img src="https://github.com/wangyunling32/StatisticalSystemOfAnnualReportPlatform/blob/master/img-folder/tijiao.png" width="600" height="400"/>
 											
 以管理员的账号登录：
 
-<img src="https://github.com/wangyunling32/StatisticalSystemOfAnnualReportPlatform/blob/master/img-folder/login2.png" width="300" height="500"/>
+<img src="https://github.com/wangyunling32/StatisticalSystemOfAnnualReportPlatform/blob/master/img-folder/login2.png" width="600" height="400"/>
 
 首页：
 
-<img src="https://github.com/wangyunling32/StatisticalSystemOfAnnualReportPlatform/blob/master/img-folder/temp.png" width="300" height="500"/>
+<img src="https://github.com/wangyunling32/StatisticalSystemOfAnnualReportPlatform/blob/master/img-folder/temp.png" width="600" height="400"/>
 
 点击“形式审核”，查看各平台的审核信息,下图为已审核的平台：
 
-<img src="https://github.com/wangyunling32/StatisticalSystemOfAnnualReportPlatform/blob/master/img-folder/shenhe.png" width="300" height="500"/>
+<img src="https://github.com/wangyunling32/StatisticalSystemOfAnnualReportPlatform/blob/master/img-folder/shenhe.png" width="600" height="400"/>
 
 查看平台的详细信息：
 
-<img src="https://github.com/wangyunling32/StatisticalSystemOfAnnualReportPlatform/blob/master/img-folder/content.png" width="300" height="500"/>
+<img src="https://github.com/wangyunling32/StatisticalSystemOfAnnualReportPlatform/blob/master/img-folder/content.png" width="600" height="400"/>
 
-<img src="https://github.com/wangyunling32/StatisticalSystemOfAnnualReportPlatform/blob/master/img-folder/content2.png" width="300" height="500"/>
+<img src="https://github.com/wangyunling32/StatisticalSystemOfAnnualReportPlatform/blob/master/img-folder/content2.png" width="600" height="400"/>
 
 未审核的平台：
 
-<img src="https://github.com/wangyunling32/StatisticalSystemOfAnnualReportPlatform/blob/master/img-folder/no.png" width="300" height="500"/>
+<img src="https://github.com/wangyunling32/StatisticalSystemOfAnnualReportPlatform/blob/master/img-folder/no.png" width="600" height="400"/>
 
 
