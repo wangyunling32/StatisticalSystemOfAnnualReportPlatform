@@ -1,0 +1,41 @@
+@CHARSET "UTF-8";
+/***********login.jsp***********/
+/*登录框*/
+/*----登陆界面----*/
+#loginbox {
+	height: 340px;
+	width: 500px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	border-radius: 25px;
+	text-align: center;
+}
+
+.logininput {
+	height: 30px;
+	width: 200px;
+	background-position: 3px 3px;
+	background-repeat: no-repeat;
+	text-indent: 30px;
+}
+
+.loginbutton {
+	background-color: #ff8040;
+	border: none;
+	color: white;
+	width: 60px;
+	padding: 7px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.tip {
+	margin-top: 5px;
+}
+
+#tip, #tip2, #tip3 {
+	color: red;
+	font-size: 14px;
+}

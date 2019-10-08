@@ -1,0 +1,228 @@
+@charset "UTF-8";
+
+/* 多条件查询样式 */
+#shi2 {
+	line-height: 200%;
+	background-color: #eeeefe;
+	padding: 0.5cm;
+}
+/* 浏览图样式 */
+ul li {
+	list-style: none;
+}
+/* table {
+	border-collapse: collapse; 
+   
+	
+}
+
+table, td, th {
+	 border: 1px solid blue;
+	border:1px silid write;
+	 border:2px;
+	align: center; 
+	
+}
+
+ */
+#table2 table, td, th {
+	border: 1px solid blue;
+	border-collapse: collapse;
+}
+/* 树状图样式 */
+* {
+	margin: 0;
+	padding: 0
+}
+
+ul, li {
+	list-style: none;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+	color: #fff;
+}
+
+a:hover {
+	color: yellow;
+}
+
+a:active {
+	color: red;
+}
+
+.list {
+	width: 190px;
+	border-bottom: solid 1px #316a91;
+	margin: 40px auto 0 auto;
+}
+
+.list ul li {
+	background-color: #467ca2;
+	border: solid 1px #316a91;
+	border-bottom: 0;
+}
+
+.list ul li a {
+	padding-left: 10px;
+	color: #fff;
+	font-size: 12px;
+	display: inline;
+	font-weight: bold;
+	height: 36px;
+	line-height: 36px;
+	position: relative;
+}
+
+.list ul li .inactive {
+	background: url(image/off.png) no-repeat 184px center;
+}
+
+.list ul li .inactives {
+	background: url(image/on.png) no-repeat 184px center;
+}
+
+.list ul li ul {
+	display: none;
+}
+
+.list ul li ul li {
+	border-left: 0;
+	border-right: 0;
+	background-color: #6196bb;
+	border-color: #467ca2;
+}
+
+.list ul li ul li ul {
+	display: none;
+}
+
+.list ul li ul li a {
+	padding-left: 20px;
+}
+
+.list ul li ul li ul li {
+	background-color: #d6e6f1;
+	border-color: #6196bb;
+}
+
+.last {
+	background-color: #d6e6f1;
+	border-color: #6196bb;
+}
+
+.list ul li ul li ul li a {
+	color: #316a91;
+	padding-left: 30px;
+}
+
+.list ul li ul li ul li a:active {
+	color: red;
+} /* 正在被点击的链接 */
+.list ul li ul li a:active {
+	color: red;
+} /* 正在被点击的链接 */
+.list ul li a:active {
+	color: red;
+} /* 正在被点击的链接 */
+/*设置超链接样式*/
+table {
+	border: 3px solid;
+	border-color: transparent;
+}
+
+th, td {
+	background: white;
+}
+
+a {
+	color: blue;
+	text-decoration: none; /* 去掉链接中的下划线 */
+	font-size: 12px;
+}
+
+a:hover 鼠标指针移动到链接上 {
+	color: blue;
+	text-decoration: underline;
+	font-size: 12px;
+}
+
+a:visited 已被访问的链接 {
+	color: blue;
+	font-size: 12px;
+}
+/*tab头的样式*/
+#tabsHead /* id 选择器 */ {
+	padding-left: 0px;
+	height: 26px;
+	background-color: #e8f7fc;
+	font-size: 1em;
+	margin: 1px 0px 0px;
+	color: #5086a5;
+	line-height: 26px;
+}
+/*已选tab头（超链接）的样式*/
+.curtab {
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	border-right: #b2c9d3 1px solid; /*  把右边框的所有属性设置到一个声明中。*/
+	font-weight: bold;
+	float: left;
+	cursor: pointer; /* 点光标： */
+	background: #ffffff;
+}
+/*未选tab头（超链接）的样式*/
+.tabs {
+	border-right: #c1d8e0 1px solid;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	font-weight: normal;
+	float: left;
+	cursor: pointer;
+}
+
+p {
+	font-size: 12pt;
+	text-indent: 2em; /* 文本缩进 */
+}
+/*整个tab层居中，宽度为600px*/
+#tabDiv {
+	width: 600px;
+	margin: 1em auto;
+	padding-bottom: 10px;
+	/* border-right: #b2c9d3 1px solid;
+	border-top: #b2c9d3 1px solid;
+	border-left: #b2c9d3 1px solid;
+	border-bottom: #b2c9d3 1px solid; */
+	background: #ffffff;
+}
+/* 表头样式 */
+.nav ul li {
+	float: left;
+	list-style: none;
+	display: inline-block;
+	padding: 0px 72px;
+	font-size: 20px;
+	   
+}
+/* a{text-decoration:none;} */
+a:link {
+	color: blue;
+}
+
+a:visited {
+	color: #8080ff;
+}
+
+a:hover {
+	color: blue;
+}
+
+a:active {
+	color: red;
+}

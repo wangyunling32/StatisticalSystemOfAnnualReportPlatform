@@ -1,0 +1,87 @@
+/* CSS Document */
+@charset "utf-8";
+/*----登陆界面----*/
+#loginbox {
+	height: 290px;
+	width: 500px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	border-radius: 25px;
+	text-align: center;
+}
+
+.logininput {
+	height: 30px;
+	width: 200px;
+	background-position: 3px 3px;
+	background-repeat: no-repeat;
+	text-indent: 30px;
+}
+
+.loginbutton {
+	background-color: #ff8040;
+	border: none;
+	color: white;
+	width: 60px;
+	padding: 7px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+/*----注册页面----*/
+#reg_tb {
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*----填报界面----*/
+
+/*表格中的input*/
+.tb_input {
+	width: 100%;
+	height: 35px;
+	text-indent: 6px;
+	border: solid 1px #D2D2D2;
+}
+/* 表格中的获取input*/
+.tb_input1 {
+	width: 100%;
+	height: 35px;
+	text-indent: 6px;
+	border: solid 1px #D2D2D2;
+	color: blue;
+}
+/*表格标题*/
+.lab_title {
+	color: #4784e3;
+	font-weight: bold;
+	font-family: "微软雅黑";
+}
+/*红色星号*/
+.must {
+	color: red;
+}
+/*表格样式*/
+.tab {
+	border: 1px #ddd solid;
+	width: 80%
+}
+
+/*----注册页面----*/
+#reg_tb {
+	width: 30%;
+	height: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px #ffff80solid;
+}
+
+/*多条件查询框*/
+.mutiselect_box {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
